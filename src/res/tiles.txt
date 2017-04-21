@@ -1,0 +1,2 @@
+TTY 0 name false
++cimg /res/img/tiles.png 0 0 16 16
