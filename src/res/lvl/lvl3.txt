@@ -1,0 +1,7 @@
+LVL 13000 2000 15 0.1
+/res/lvl/lvl1a.txt
+/res/lvl/lvl1b.txt
+/res/lvl/lvl1c.txt
+/res/lvl/lvl1d.txt
+/res/lvl/lvl1e.txt
+

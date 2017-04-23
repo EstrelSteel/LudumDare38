@@ -1,2 +1,34 @@
-TTY 0 name false
+TTY 0 HIDDEN true
 +cimg /res/img/tiles.png 0 0 16 16
+TTY 1 WALL_HIDDEN false
++cimg /res/img/tiles.png 1 0 16 16
+TTY 2 WALL_VIS false
++cimg /res/img/tiles.png 2 0 16 16
+TTY 3 WALL_UP_LEFT true
++cimg /res/img/tiles.png 3 0 16 16
+TTY 4 WALL_UP true
++cimg /res/img/tiles.png 4 0 16 16
+TTY 5 WALL_UP_RIGHT true
++cimg /res/img/tiles.png 5 0 16 16
+TTY 6 WALL_LEFT true
++cimg /res/img/tiles.png 6 0 16 16
+TTY 7 WALL_RIGHT true
++cimg /res/img/tiles.png 7 0 16 16
+TTY 8 WALL_DOWN_LEFT true
++cimg /res/img/tiles.png 8 0 16 16
+TTY 9 WALL_DOWN true
++cimg /res/img/tiles.png 9 0 16 16
+TTY 10 WALL_DOWN_RIGHT true
++cimg /res/img/tiles.png 10 0 16 16
+TTY 11 WATER_0 false
++cimg /res/img/tiles.png 0 1 16 16
+TTY 12 WATER_1 false
++cimg /res/img/tiles.png 1 1 16 16
+TTY 13 WATER_2 false
++cimg /res/img/tiles.png 2 1 16 16
+TTY 14 WATER_3 false
++cimg /res/img/tiles.png 3 1 16 16
+TTY 15 WALL_CORNER_LEFT false
++cimg /res/img/tiles.png 11 0 16 16
+TTY 16 WALL_CORNER_RIGHT false
++cimg /res/img/tiles.png 12 0 16 16

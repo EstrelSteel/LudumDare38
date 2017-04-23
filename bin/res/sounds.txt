@@ -1,0 +1,4 @@
+SAR
+SFX EXPLOSION /res/sfx/explosion.wav 0
+SFX TREASURE /res/sfx/treasure.wav 0
+SFX FLAG /res/sfx/flag.wav 0
